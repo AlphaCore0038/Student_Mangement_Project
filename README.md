@@ -78,10 +78,6 @@ Compile and execute the main Java file to launch the Student Management System.
 
 ## 📸 Screenshots
 
-Add screenshots of the application here.
-
-Example:
-
 
 <img width="1458" height="917" alt="image" src="https://github.com/user-attachments/assets/c4539778-2c0e-4d5e-a136-3ac78d5907a1" />
 
