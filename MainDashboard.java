@@ -240,3 +240,4 @@ public class MainDashboard extends JFrame {
         if (feePanel != null) feePanel.refreshTable(manager.getStudents());
     }
 }
+//...
